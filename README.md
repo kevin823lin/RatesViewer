@@ -1,4 +1,4 @@
-# 查看匯率 App
+# 查看匯率 iOS App
 
 * Report
 
